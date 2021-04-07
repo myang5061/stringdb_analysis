@@ -1,5 +1,5 @@
 # stringdb_analysis
-shell commands for the string-db analysis. This project is based on the string-db API. The input data are the Multiple Proteins by Sequences, and you can get the enrichment analysis from the string-db.
+Shell commands for the string-db analysis. This project is based on the string-db API. The input data are the Multiple Proteins by Sequences, and you can get the enrichment analysis from the string-db.
 
 You can put multiple input files in the input folder and get the results for each one.
 
