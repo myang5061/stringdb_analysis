@@ -5,8 +5,10 @@ You can put multiple input files in the input folder and get the results for eac
 
 # modified input and output path in script:
 input='/path'
+
 string_db_output='/stringdb/output'
 
 # run the script:
 chmod u+x string-db.sh
+
 ./string-db.sh
