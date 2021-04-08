@@ -3,12 +3,12 @@ Shell commands for the string-db analysis. This project is based on the string-d
 
 You can put multiple input files in the input folder and get the results for each one.
 
-# modified input and output path in script:
-input='/path'
+## modified input and output path in script:
+ input='/path'
 
-string_db_output='/stringdb/output'
+ string_db_output='/stringdb/output'
 
-# run the script:
-chmod u+x string-db.sh
+## run the script:
+ chmod u+x string-db.sh
 
-./string-db.sh
+ ./string-db.sh
